@@ -56,8 +56,8 @@ The processed dataset contains the following fields:
 
 ### Steps
 1. Clone the repository:
-  git clone https://github.com/31i731/...
-  cd ...
+  git clone https://github.com/31i731/worldnews-sentiment-analysis.git
+  cd worldnews-sentiment-analysis
 2. Run the notebook:
   jupyter notebook sentiment_analyzer.ipynb
 3. (Optional) Update the dataset by running the scraping script.
