@@ -60,7 +60,7 @@ The processed dataset contains the following fields:
   - cd worldnews-sentiment-analysis
 2. Run the notebook:
   jupyter notebook sentiment_analyzer.ipynb
-3. (Optional) Update the dataset by running the scraping script.
+3. (Optional) Update the dataset by running [the scraping script](https://www.kaggle.com/code/vassiliprivalihhin2/reddit-scrape-with-main-top-level-comments-only).
 
 
 ## Next Steps
